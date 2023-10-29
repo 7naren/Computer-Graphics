@@ -1,4 +1,7 @@
 # Computer-Graphics
-Libraries required : pygame
+Seminar : 
+kindly refer computer_graphics_seminar.pdf
 
-Must Read: report.pdf
+Project : 
+Libraries required : pygame
+Relevant files : game.py, report.pdf
